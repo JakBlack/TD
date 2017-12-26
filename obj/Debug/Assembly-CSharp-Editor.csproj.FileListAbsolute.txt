@@ -1,0 +1,2 @@
+C:\Users\Jak\Dropbox\Creations\Tower Defense\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Jak\Dropbox\Creations\Tower Defense\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
